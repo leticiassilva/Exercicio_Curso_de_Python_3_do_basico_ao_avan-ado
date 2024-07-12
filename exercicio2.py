@@ -5,4 +5,4 @@ imc = peso / altura ** 2
 print(imc)
 
 print(nome, 'tem', altura, 'de', 'altura,', 'pesa',
-      peso, 'quilos', 'e', 'seu', 'IMC', 'é', imc)
+      peso, 'quilos', 'e seu IMC é', imc)
